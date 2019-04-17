@@ -1,0 +1,50 @@
+ #container {
+    font-family: Microsoft JhengHei;
+    width:100%;
+    height: 700px;
+    margin: 0px auto;
+}
+
+#header {
+    height: 60px;
+    color: white;
+    background-color: rgb(82, 21, 6);
+    text-align: center;
+}
+
+#menu {
+    height: 40px;
+    background-color: bisque;
+}
+
+ul li {
+    list-style-type: none;
+    float: left;
+    /*讓 li 變橫排*/
+    margin: 0px 10px;
+    font-size: 20px;
+}
+
+ul li a {
+    background-color: rgb(245, 201, 187);
+    padding: 5px;
+}
+
+ul li a:hover {
+    background-color: crimson;
+}
+
+#section {
+    height:600px;
+    width: 100%;
+    background-color: white;
+    margin: 20px auto;
+    text-align: center;
+}
+
+#footer {
+    height: 30px;
+    color: white;
+    background-color: rgb(82, 21, 6);
+    text-align: center;
+}

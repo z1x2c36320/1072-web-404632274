@@ -1,0 +1,88 @@
+#container{
+    width:100%;
+    height: 570px;
+    margin: 0px auto;
+}
+#logo {
+    height: 40px;
+    width: 20%;
+    background: rgb(235, 217, 119);
+    text-align: center;
+    line-height: 40px;
+    float: left;
+}
+
+#header {
+    height: 40px;
+    width: 80%;
+    background: rgb(33, 175, 175);
+    text-align: center;
+    line-height: 40px;
+    float: right;
+}
+
+#aside {
+    height: 400px;
+    width: 20%;
+    background: rgb(33, 175, 175);
+    text-align: center;
+    float: left;
+}
+
+#nav {
+    height: 360px;
+    width: 90%;
+    background: rgb(4, 85, 85);
+    margin: 0px auto;
+}
+
+#article {
+    height: 400px;
+    width: 80%;
+    background: rgb(180, 92, 99);
+    float: right;
+}
+
+#section {
+    height: 365px;
+    width: 90%;
+    background: rgb(240, 209, 214);
+    margin: 0px auto;
+}
+
+.display {
+    height: 230px;
+    width: 75%;
+    background: rgb(233, 39, 71);
+    text-align: center;
+    line-height: 230px;
+    margin: 0px auto;
+}
+
+.picContainer {
+    height: 100px;
+    width: 90%;
+    background: rgb(124, 41, 55);
+    margin: 10px auto;
+}
+
+.small_pic {
+    height: 60px;
+    width: 17%;
+    background: rgb(179, 94, 108);
+    float: left;
+    margin: 1.5%;
+    margin-bottom: 0.5%;
+    text-align: center;
+    line-height: 60px;
+}
+
+.clearfix {
+    clear: both;
+}
+
+#footer {
+    height: 30px;
+    width: 100%;
+    background: rgb(63, 74, 80);
+}
